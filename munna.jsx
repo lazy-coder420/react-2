@@ -9,3 +9,22 @@ const munna = () => {
 }
 
 export default munna
+
+
+
+
+
+
+
+
+
+
+
+
+function User({name, age}){
+
+  return (
+    <p>{name} + {age}</p>
+  )
+
+}
